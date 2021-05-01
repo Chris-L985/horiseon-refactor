@@ -5,8 +5,8 @@ A website that offers Search engine optimization services.
 
 
 ## Built with 
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://chris-l985.github.io/horiseon-refactor/
